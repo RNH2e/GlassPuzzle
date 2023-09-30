@@ -1,0 +1,4 @@
+#Sat Sep 30 18:56:28 EET 2023
+base.0=C\:\\Users\\amine\\3D Objects\\Glass\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
