@@ -1,3 +1,3 @@
 # GlassPuzzle
 #Glass Puzzle is a simple puzzle game with particles falling out of glasses.
-![github](https://github.com/RNH2e/GlassPuzzle/assets/93777622/5eca6007-6c29-46d1-8b86-d8143ccd57d5)
+![movie_006](https://github.com/RNH2e/GlassPuzzle/assets/93777622/c497676d-6c72-4a5e-bd62-b50958fe716f)
